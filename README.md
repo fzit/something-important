@@ -1,5 +1,5 @@
 ## 公司简介
-详情见：https://github.com/fzit/about-us
+- 详情见：https://github.com/fzit/about-us
 
 ## 业务范围
 - 微信小程序开发
